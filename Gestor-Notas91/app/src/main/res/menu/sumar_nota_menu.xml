@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+<item android:id="@+id/coordenadas"
+    android:icon="@drawable/ic_nueva_ubicacion"
+    android:title="@string/Coordenadas"
+    android:showAsAction="always" />
+
+<item android:id="@+id/camara"
+    android:icon="@drawable/ic_sumar_foto"
+    android:title="@string/Camara"
+    android:showAsAction="always" />
+
+</menu>
+

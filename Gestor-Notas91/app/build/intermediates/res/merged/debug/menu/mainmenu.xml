@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+
+<item android:id="@+id/sumar_nota"
+    android:icon="@drawable/ic_nueva_nota"
+    android:title="@string/CrearNota"
+    android:showAsAction="always" />
+
+<item android:id="@+id/mapa"
+    android:icon="@drawable/ic_mapa"
+    android:title="@string/Mapa"
+    android:showAsAction="always" />
+
+</menu>
+
+

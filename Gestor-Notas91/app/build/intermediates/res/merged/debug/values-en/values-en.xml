@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Camara">camera</string>
+    <string name="Coordenadas">Add coordinates</string>
+    <string name="CrearNota">Create note</string>
+    <string name="CrearTitulo">Create new note</string>
+    <string name="Descripcion">Description</string>
+    <string name="DetalleTitulo">Note details</string>
+    <string name="Editar">edit</string>
+    <string name="EditarTitulo">Edit note</string>
+    <string name="Eliminando">Do you want to delete this note?</string>
+    <string name="Eliminar">delete</string>
+    <string name="Galeria">galery</string>
+    <string name="Guardar">save</string>
+    <string name="Imagen_añadido">The image has been successfully added</string>
+    <string name="Lat_Long_error">The longitude and latitude must be numbers</string>
+    <string name="Latitud">latitude</string>
+    <string name="Longitud">longitude</string>
+    <string name="Mapa">Map</string>
+    <string name="No">No</string>
+    <string name="NoHayNota">There isn\'t any note</string>
+    <string name="Si">Yes</string>
+    <string name="Sumar_imagen">Add image</string>
+    <string name="Tit_Desc_vacio">The title and description are necessary</string>
+    <string name="Titulo">Title</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_name">Gestor-Notas</string>
+    <string name="appwidget_text">Gestor Notas</string>
+    <string name="menu_insert">Add item</string>
+</resources>

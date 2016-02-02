@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView 
+        android:id="@+id/titulo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textSize="40sp"
+        />
+
+    <!--Creamos un ScrollView para no tener problemas si la nota ocupa toda la pantalla-->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/titulo">
+        <TextView
+            android:id="@+id/descripcion"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:textSize="20sp"
+            android:layout_marginBottom="50dp"
+            />
+
+    </ScrollView>
+
+
+     
+<LinearLayout 
+     android:id="@+id/botones"
+ android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="bottom"
+    >
+     <Button 
+         android:id="@+id/btn_eliminar"
+         android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="eliminar"/>
+     
+      <Button 
+         android:id="@+id/btn_editar"
+         android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_toRightOf="@id/btn_eliminar"
+        android:text="editar"/>
+    
+</LinearLayout>
+
+</RelativeLayout>

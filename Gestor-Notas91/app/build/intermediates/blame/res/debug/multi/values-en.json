@@ -1,0 +1,345 @@
+[
+    {
+        "outputFile": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\build\\intermediates\\res\\merged\\debug\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 55,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 49,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 55,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 51,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 54,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endColumn": 39,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 406,
+                    "endColumn": 50,
+                    "endOffset": 452
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 457,
+                    "endColumn": 71,
+                    "endOffset": 524
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 529,
+                    "endColumn": 43,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endColumn": 42,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 40,
+                    "endOffset": 652
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 657,
+                    "endColumn": 80,
+                    "endOffset": 733
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 738,
+                    "endColumn": 85,
+                    "endOffset": 819
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 824,
+                    "endColumn": 44,
+                    "endOffset": 864
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 869,
+                    "endColumn": 46,
+                    "endOffset": 911
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 916,
+                    "endColumn": 36,
+                    "endOffset": 948
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 953,
+                    "endColumn": 33,
+                    "endOffset": 982
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 987,
+                    "endColumn": 59,
+                    "endOffset": 1042
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1047,
+                    "endColumn": 34,
+                    "endOffset": 1077
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1082,
+                    "endColumn": 50,
+                    "endOffset": 1128
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1439,
+                        "endColumn": 50,
+                        "endOffset": 1485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1133,
+                    "endColumn": 82,
+                    "endOffset": 1211
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1216,
+                    "endColumn": 40,
+                    "endOffset": 1252
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1257,
+                    "endColumn": 49,
+                    "endOffset": 1302
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1307,
+                    "endColumn": 49,
+                    "endOffset": 1352
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1357,
+                    "endColumn": 55,
+                    "endOffset": 1408
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1413,
+                    "endColumn": 48,
+                    "endOffset": 1457
+                },
+                "from": {
+                    "file": "C:\\Users\\aitor\\StudioProjects\\Gestor-Notas91\\app\\src\\main\\res\\values-en\\strings.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gestor-Notas</string>
+    <string name="Camara">kamera</string>
+    <string name="Coordenadas">Koordenatuak gehitu</string>
+    <string name="CrearNota">Nota sortu</string>
+    <string name="Descripcion">Deskribapena</string>
+    <string name="Editar">editatu</string>
+    <string name="Eliminar">ezabatu</string>
+    <string name="Guardar">gorde</string>
+    <string name="Mapa">Mapa</string>
+    <string name="NoHayNota">Ez dago notarik</string>
+    <string name="Titulo">Titulua</string>
+    <string name="add_widget">Widgeta gehitu</string>
+    <string name="appwidget_text">Gestor Notas</string>
+    <string name="menu_insert">Osagaia gehitu</string>
+    <string name="Eliminando">Nota hau ezabatu nahi duzu?</string>
+    <string name="CrearTitulo">Nota berria sortu</string>
+    <string name="DetalleTitulo">Notaren ezaugarriak</string>
+    <string name="EditarTitulo">Nota editatu</string>
+    <string name="Galeria">galeria</string>
+    <string name="Imagen_añadido">Argazkia ondo gorde da</string>
+    <string name="Lat_Long_error">longitudeak eta latitudeak zenbakiak izan behar dute</string>
+    <string name="Latitud">latitudea</string>
+    <string name="Longitud">longitudea</string>
+    <string name="No">Ez</string>
+    <string name="Si">Bai</string>
+    <string name="Tit_Desc_vacio">Titulua eta deskribapena beharrezkoak dira</string>
+    <string name="Sumar_imagen">Argazkia gehitu</string>
+</resources>
